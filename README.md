@@ -1,4 +1,4 @@
-# Tumor Instable-differentiation Representation via Learnable-tensor Diagonal Sparse Optimization boosted-Instance Semi-fuzzy Clustering
+# Tumor Instable-differentiation Representation via Learnable-tensor Diagonal Sparse Metrics boosted-Instance Semi-fuzzy Clustering
 ## 🧔: Authors [*Corresponding author]
 Pan Huang, _Member_, _IEEE_, and Jing Qin*, _Senior Member_, _IEEE_
 
@@ -10,7 +10,7 @@ Pan Huang, _Member_, _IEEE_, and Jing Qin*, _Senior Member_, _IEEE_
 
 ## :rocket: Pipeline
 
-Here's an overview of our **Learnable-tensor Diagonal Sparse Optimization boosted-Instance Semi-fuzzy Clustering (LSSO-ISC)** method:
+Here's an overview of our **Learnable-tensor Diagonal Sparse Metrics boosted-Instance Semi-fuzzy Clustering (LDSM-ISC)** method:
 
 ![Figure 1](./images/xxx.jpg)
 
